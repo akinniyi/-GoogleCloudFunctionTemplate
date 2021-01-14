@@ -1,0 +1,8 @@
+# Function dependencies, for example:
+# package>=version
+#google-cloud-tasks>=2.0.0
+#google-cloud-datastore>=2.1.0
+#requests
+Flask
+python-dotenv
+pytest
